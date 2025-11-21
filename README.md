@@ -62,7 +62,3 @@ python3 src/main.py
 This project is more than practice — it’s a personal journey into consistent coding, creativity, and slow, steady improvement.
 
 Every commit represents a tiny step forward.
-
-✨ Author
-
-Aether and Delta
